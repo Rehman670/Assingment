@@ -92,5 +92,6 @@ img {
     }
     .nav{
         justify-content: center;
+        align-items: center;
     }
 }
